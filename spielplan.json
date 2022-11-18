@@ -1,4 +1,38 @@
-{
+{ "flags" :[
+
+  {"argentinien":"https://www.nationalflaggen.de/media/67/conversion/flagge-argentinien-rechteckig-30.png"},
+  {"australien":"https://www.nationalflaggen.de/media/79/conversion/flagge-australien-rechteckig-30.png"},
+  {"belgien":"https://www.nationalflaggen.de/media/96/conversion/flagge-belgien-rechteckig-30.png"},
+  {"brasilien":"https://www.nationalflaggen.de/media/118/conversion/flagge-brasilien-rechteckig-30.png"},
+  {"costa-rica":"https://www.nationalflaggen.de/media/139/conversion/flagge-costa-rica-rechteckig-30.png"},
+  {"dänemark":"https://www.nationalflaggen.de/media/143/conversion/flagge-danemark-rechteckig-30.png" },
+  {"deutschland":"https://www.nationalflaggen.de/media/5/conversion/flagge-deutschland-rechteckig-30.png"},
+  {"equador":"https://www.nationalflaggen.de/media/155/conversion/flagge-ecuador-rechteckig-30.png" },
+  {"england":"https://www.nationalflaggen.de/media/767/conversion/flagge-england-rechteckig-30.gif" },
+  {"frankreich":"https://www.nationalflaggen.de/media/26/conversion/flagge-frankreich-rechteckig-30.png" },
+  {"ghana":"https://www.nationalflaggen.de/media/185/conversion/flagge-ghana-rechteckig-30.png" },
+  {"iran":"https://www.nationalflaggen.de/media/218/conversion/flagge-iran-rechteckig-30.png"},
+  {"japan":"https://www.nationalflaggen.de/media/234/conversion/flagge-japan-rechteckig-30.png"},
+  {"kamerun":"https://www.nationalflaggen.de/media/247/conversion/flagge-kamerun-rechteckig-30.png" },
+  {"kanada":"https://www.nationalflaggen.de/media/250/conversion/flagge-kanada-rechteckig-30.png"  },
+  {"katar":"https://www.nationalflaggen.de/media/256/conversion/flagge-katar-rechteckig-30.png" },
+  {"kroatien":"https://www.nationalflaggen.de/media/289/conversion/flagge-kroatien-rechteckig-30.png"},
+  {"marokko":"https://www.nationalflaggen.de/media/343/conversion/flagge-marokko-rechteckig-30.png" },
+  {"mexiko":"https://www.nationalflaggen.de/media/355/conversion/flagge-mexiko-rechteckig-30.png"},
+  {"niederlande":"https://www.nationalflaggen.de/media/388/conversion/flagge-niederlande-rechteckig-30.png" },
+  {"polen":"https://www.nationalflaggen.de/media/435/conversion/flagge-polen-rechteckig-30.png" },
+  {"portugal":"https://www.nationalflaggen.de/media/438/conversion/flagge-portugal-rechteckig-30.png"},
+  {"saudi-arabien":"https://www.nationalflaggen.de/media/474/conversion/flagge-saudi-arabien-rechteckig-30.png" },
+  {"schweiz":"https://www.nationalflaggen.de/media/480/conversion/flagge-schweiz-rechteckig-30.png"},
+  {"senegal":"https://www.nationalflaggen.de/media/483/conversion/flagge-senegal-rechteckig-30.png" },
+  {"serbien":"https://www.nationalflaggen.de/media/486/conversion/flagge-serbien-rechteckig-30.png"},
+  {"spanien":"https://www.nationalflaggen.de/media/36/conversion/flagge-spanien-rechteckig-30.png" },
+  {"südkorea":"https://www.nationalflaggen.de/media/283/conversion/flagge-sudkorea-rechteckig-30.png"},
+  {"tunesien":"https://www.nationalflaggen.de/media/878/conversion/flagge-tunesien-rechteckig-30.png" },
+  {"uruguay":"https://www.nationalflaggen.de/media/901/conversion/flagge-uruguay-rechteckig-30.png" },
+  {"usa":"https://www.nationalflaggen.de/media/919/conversion/flagge-vereinigte-staaten-von-amerika-usa-rechteckig-30.png"},
+  {"wales":"https://www.nationalflaggen.de/media/768/conversion/flagge-wales-rechteckig-30.gif" }
+ ],
   "groups": [
     {
       "A": [
@@ -13,10 +47,10 @@
               "team2": "Ecuador"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -31,10 +65,10 @@
               "team2": "Niederlande"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -49,10 +83,10 @@
               "team2": "Senegal"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -67,10 +101,10 @@
               "team2": "Ecuador"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -85,10 +119,10 @@
               "team2": "Katar"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -103,10 +137,10 @@
               "team2": "Senegal"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         }
@@ -126,10 +160,10 @@
               "team2": "Iran"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -144,10 +178,10 @@
               "team2": "Wales"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -162,10 +196,10 @@
               "team2": "Ira"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -180,10 +214,10 @@
               "team2": "USA"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -198,10 +232,10 @@
               "team2": "England"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -216,10 +250,10 @@
               "team2": "USA"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         }
@@ -238,10 +272,10 @@
               "team2": "Saudi-Arabien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -256,10 +290,10 @@
               "team2": "Polen"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -274,10 +308,10 @@
               "team2": "Saudi-Arabien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -292,10 +326,10 @@
               "team2": "Mexico"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -310,10 +344,10 @@
               "team2": "Argentinien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -328,10 +362,10 @@
               "team2": "Mexico"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         }
@@ -350,10 +384,10 @@
               "team2": "Tunesien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -368,10 +402,10 @@
               "team2": "Tunesien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -386,10 +420,10 @@
               "team2": "Australien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -404,10 +438,10 @@
               "team2": "Dänemark"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -422,10 +456,10 @@
               "team2": "Frankreich"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -440,10 +474,10 @@
               "team2": "Dänemark"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         }
@@ -462,10 +496,10 @@
               "team2": "Japan"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -480,10 +514,10 @@
               "team2": "Costa Rica"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -498,10 +532,10 @@
               "team2": "Costa Rica"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -516,10 +550,10 @@
               "team2": "Deutschland"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -534,10 +568,10 @@
               "team2": "Spanien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -552,10 +586,10 @@
               "team2": "Deutschland"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         }
@@ -574,10 +608,10 @@
               "team2": "Kroatien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -592,10 +626,10 @@
               "team2": "Kanada"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -610,10 +644,10 @@
               "team2": "Marokko"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -628,10 +662,10 @@
               "team2": "Kanada"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -646,10 +680,10 @@
               "team2": "Belgien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -664,10 +698,10 @@
               "team2": "Marokko"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         }
@@ -686,10 +720,10 @@
               "team2": "Kamerun"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -704,10 +738,10 @@
               "team2": "Serbien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -722,10 +756,10 @@
               "team2": "Serbien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -740,10 +774,10 @@
               "team2": "Schweiz"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -758,10 +792,10 @@
               "team2": "Brasilien"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -776,10 +810,10 @@
               "team2": "Schweiz"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         }
@@ -798,10 +832,10 @@
               "team2": "Südkorea"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -816,10 +850,10 @@
               "team2": "Ghana"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -834,10 +868,10 @@
               "team2": "Ghana"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -852,10 +886,10 @@
               "team2": "Uruguay"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -870,10 +904,10 @@
               "team2": "Portugal"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         },
@@ -888,10 +922,10 @@
               "team2": "Uruguay"
             },
             {
-              "goalsT1": 0
+              "goals_team1": 0
             },
             {
-              "goalsT2": 0
+              "goals_team2": 0
             }
           ]
         }
