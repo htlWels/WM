@@ -1,5 +1,11 @@
 import { ref } from "vue";
 
+/*
+Usage:
+
+const {error,loading,ready,data} ) = useFetch(URL,OPTIONS)
+*/
+
 export function useFetch(url, options) {
   //https://vuejs.org/api/reactivity-core.html#reactive
 
